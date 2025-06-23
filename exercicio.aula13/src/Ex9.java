@@ -5,6 +5,6 @@ public class Ex9 {
         Scanner scan = new Scanner(System.in);
         double f = scan.nextDouble();
         double c = (f - 32) * 5 / 9;
-        System.out.printf("%.1f farenheit em celsios é %.1f", f, c);
+        System.out.printf("%.1f farenheit to celsios is %.1f", f, c);
     }
 }

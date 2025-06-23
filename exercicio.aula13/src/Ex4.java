@@ -7,7 +7,7 @@ public class Ex4 {
         double n2 = scan.nextDouble();
         double n3 = scan.nextDouble();
         double n4 = scan.nextDouble();
-        double media = (n1 + n2 + n3 + n4) / 4;
-        System.out.printf("A média é: %.2f\n", media);
+        double average = (n1 + n2 + n3 + n4) / 4;
+        System.out.printf("The average is: %.2f\n", average);
     }
 }
