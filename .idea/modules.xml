@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exercise.class13/exercise.class13.iml" filepath="$PROJECT_DIR$/exercise.class13/exercise.class13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise.class14_15/exercise.class14_15.iml" filepath="$PROJECT_DIR$/exercise.class14_15/exercise.class14_15.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaBasicExercises.iml" filepath="$PROJECT_DIR$/.idea/javaBasicExercises.iml" />
     </modules>
   </component>
